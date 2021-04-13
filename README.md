@@ -9,4 +9,7 @@ We are hiring!!!
 
 對社群服務和手機遊戲有熱情、喜歡創業環境的人才，不要猶豫了！加入我們一起打拼吧！！
 
+詳細工作列表：
+https://github.com/OmletTW/Jobs/issues/
+
 ![Screenshot_20210412-163119](https://user-images.githubusercontent.com/16796381/114494544-23172180-9c4f-11eb-854f-dc5df1a37cbd.png)
